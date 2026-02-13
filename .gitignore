@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+
+/disk/*
+!/disk/.gitkeep
+*.map
+*.tar
+*.bin
+*.log
+*.pcap
